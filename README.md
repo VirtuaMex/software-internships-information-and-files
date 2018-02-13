@@ -5,6 +5,9 @@
 ### Nombre
 VirtuaMx
 
+### Logotipo
+<img src="./LOGO.png" width="400">
+
 ### Descripción
 VirtuaMX es una agencia digital establecida en Durango, dedicada a brindar servicios en Tecnologías de la Información. Especializada en el diseño de estrategias que permitan a las empresas aprovechar las tecnologías para la mejora de sus procesos y sobre todo la atención a sus clientes, buscando con ello traducirlo en un crecimiento real de la misma. Nos especializamos en desarrollo web, desarrollo móvil, estrategia de redes sociales y mailing marketing.
 
