@@ -23,7 +23,7 @@ Valle de Guatimapé 402 Col. La Esperanza. Durango, Dgo. México.
 ### Correo
 contacto@virtua.mx
 
-## Datos del Asesor Empresarial
+## Datos del Asesor Empresarial (Confirmar Primero)
 
 ### Nombre
 Luis Alberto Bolívar Reyes
