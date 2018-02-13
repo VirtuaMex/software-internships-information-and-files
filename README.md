@@ -1,2 +1,2 @@
 # En progreso...
-![LOGO OFICIAL](/LOGO.png)
+<img src="./LOGO.png" width="400">
