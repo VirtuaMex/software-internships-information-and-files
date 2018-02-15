@@ -42,7 +42,7 @@ Valle de Guatimapé 402 Col. La Esperanza. CP 34080. Durango, Dgo. México.
 contacto@virtua.mx
 
 ### Página Web
-[virtua.mx](http://www.virtua.mx)
+[www.virtua.mx](http://www.virtua.mx)
 
 ## Datos del Asesor Empresarial (Confirmar Primero)
 
