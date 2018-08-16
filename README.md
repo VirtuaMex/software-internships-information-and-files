@@ -46,8 +46,8 @@ contacto@virtua.mx
 
 ## Datos del Asesor Empresarial (Confirmar Primero)
 
-### Nombre
-Luis Alberto Bolívar Reyes
+### Nombre y título
+I.S.C. Luis Alberto Bolívar Reyes
 
 ### Puesto
 Líder de proyectos
