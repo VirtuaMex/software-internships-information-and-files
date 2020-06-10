@@ -3,13 +3,13 @@
 ## Datos Generales de la Empresa
 
 ### Nombre
-VirtuaMx
+Virtua
 
 ### Logotipo
 <img src="./LOGO.png" width="400">
 
 ### Descripción
-VirtuaMX es una agencia digital establecida en Durango, dedicada a brindar servicios en Tecnologías de la Información. Especializada en el diseño de estrategias que permitan a las empresas aprovechar las tecnologías para la mejora de sus procesos y sobre todo la atención a sus clientes, buscando con ello traducirlo en un crecimiento real de la misma. Nos especializamos en desarrollo web, desarrollo móvil, estrategia de redes sociales y mailing marketing.
+Virtua MX es una agencia digital establecida en Durango, dedicada a brindar servicios en Tecnologías de la Información. Especializada en el diseño de estrategias que permitan a las empresas aprovechar las tecnologías para la mejora de sus procesos y sobre todo la atención a sus clientes, buscando con ello traducirlo en un crecimiento real de la misma. Nos especializamos en Desarrollo de Software, e-Commerce y Marketing Digital.
 
 ### Misión
 Brindar soluciones creativas y de alta tecnología de información a nuestros clientes, colaborando en el éxito de sus estrategias de negocio.
@@ -44,19 +44,6 @@ contacto@virtua.mx
 ### Página Web
 [www.virtua.mx](http://www.virtua.mx)
 
-## Datos del Asesor Empresarial (Confirmar Primero)
-
-### Nombre y título
-I.S.C. Luis Alberto Bolívar Reyes
-
-### Puesto
-Líder de proyectos
-
-### Teléfono
-(618) 174 12 63
-
-### Correo
-bolivar@virtua.mx
 
 # Contribuir
 
