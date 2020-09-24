@@ -47,7 +47,7 @@ Micro empresa
 7 
 
 ### Organigrama
-<img src="./Organigrama-2020.png" width="400">
+<img src="./Organigrama-2020.png">
 
 ### Razón Social
 JOSE MIGUEL ARMANDO RAMIREZ MORALES
