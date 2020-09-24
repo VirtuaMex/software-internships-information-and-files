@@ -10,17 +10,17 @@ Virtua
 Virtua MX es una agencia digital establecida en Durango, dedicada a brindar servicios en Tecnologías de la Información. Especializada en el diseño de estrategias que permitan a las empresas aprovechar las tecnologías para la mejora de sus procesos y sobre todo la atención a sus clientes, buscando con ello traducirlo en un crecimiento real de la misma. Nos especializamos en Desarrollo de Software, e-Commerce y Marketing Digital.
 
 ### Servicios
-Consultoría
-Desarrollo de software
-Marketing digital
-e-Commerce
-Diseño
+####Consultoría
+####Desarrollo de software
+####Marketing digital
+####e-Commerce
+####Diseño
 
 ### Certificaciones
-Scrum Developer by Scrum Alliance
-Scrum Master by Scrum Alliance
-Scrum Product Owner by Scrum Alliance
-ISO/IEC 29110 Ingeniería de Software (En proceso)
+####Scrum Developer by Scrum Alliance
+####Scrum Master by Scrum Alliance
+####Scrum Product Owner by Scrum Alliance
+####ISO/IEC 29110 Ingeniería de Software (En proceso)
 
 ### Misión
 Brindar soluciones creativas y de alta tecnología de información a nuestros clientes, colaborando en el éxito de sus estrategias de negocio.
