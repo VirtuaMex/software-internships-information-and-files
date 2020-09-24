@@ -17,10 +17,10 @@ e-Commerce.
 Diseño. 
 
 ### Certificaciones
-Scrum Developer by Scrum Alliance. 
-Scrum Master by Scrum Alliance. 
-Scrum Product Owner by Scrum Alliance. 
-ISO/IEC 29110 Ingeniería de Software (En proceso). 
+Scrum Developer by Scrum Alliance.  
+Scrum Master by Scrum Alliance.  
+Scrum Product Owner by Scrum Alliance.  
+ISO/IEC 29110 Ingeniería de Software (En proceso).  
 
 ### Misión
 Brindar soluciones creativas y de alta tecnología de información a nuestros clientes, colaborando en el éxito de sus estrategias de negocio.
@@ -69,17 +69,3 @@ contacto@virtua.mx
 
 ### Página Web
 [www.virtua.mx](http://www.virtua.mx)
-
-
-
-
-
-# Contribuir
-
-Si detectas algún error o tienes alguna propuesta, [crea un issue](https://github.com/VirtuaMex/software-internships-information-and-files/issues/new). Si es algo que tú mismo puedes corregir, te sugerimos que mejor hagas un request siguiendo estos pasos:
-
-1. Haz un [fork](https://help.github.com/articles/fork-a-repo) (https://github.com/VirtuaMex/software-internships-information-and-files/fork)
-2. Crea una [rama](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) con la característica deseada (`git checkout -b my-new-feature`)
-3. Haz [commit](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_committing_changes) de tus cambios (`git commit -am 'Add some feature'`)
-4. Ahora sube a git con el comando [push](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes#_pushing_remotes) a la rama que creaste (`git push origin my-new-feature`)
-5. Por último, crea una [Pull Request](https://help.github.com/articles/about-pull-requests/)
