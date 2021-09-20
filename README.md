@@ -50,20 +50,19 @@ Micro empresa
 <img src="./Organigrama-2020.png">
 
 ### Razón Social
-JOSE MIGUEL ARMANDO RAMIREZ MORALES
+VIRTUA MÉXICO S.C.
 
 ### RFC
-RAMM810719SW3
+VME210609MU1
 
 ### Domicilio
 [Valle de Guatimapé 402 Col. Esperanza. CP 34080 Durango, Dgo., México.](https://www.google.com.mx/maps/place/VirtuaMX/@24.0340039,-104.6518873,15z/data=!4m5!3m4!1s0x0:0x38b38a4e1dd0ff91!8m2!3d24.0340039!4d-104.6518873?sa=X&ved=0ahUKEwji3-6Fl6fZAhUB_2MKHU-jAqEQ_BIIgQEwDg)
 
-### Teléfonos
-6181950467.  
+### Teléfono
 3334021574.  
 
 ### Correo
-contacto@virtua.mx
+administracion@virtua.mx
 
 ### Página Web
 [www.virtua.mx](http://www.virtua.mx)
