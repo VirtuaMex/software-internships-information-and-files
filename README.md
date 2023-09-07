@@ -35,7 +35,7 @@ Fue fundada en Noviembre de 2010 por Tao Rivera y Miguel Ramírez, con el objeti
 1 de noviembre de 2010
 
 ### Director General
-ISC. Tao Rivera Morales
+Miguel Ramírez Morales
 
 ### Giro de la empresa
 Servicios
@@ -44,7 +44,7 @@ Servicios
 Micro empresa
 
 ### Número de colaboradores
-7 
+14
 
 ### Organigrama
 <img src="./Organigrama-2020.png">
